@@ -1,0 +1,53 @@
+header {
+	float: left;
+	background-color: #002D40;
+	width: 100%;
+}
+
+header p {
+	float: right;
+}
+
+a {
+	color: #FFF;
+	text-decoration: none;
+	font-weight: bold;
+}
+a:hover {
+	color: #1AA6B7;
+	background: #OB486B;
+	padding: 20px 5px;
+}
+#logo {
+	float: left;
+	width: 40%;
+	height: 40%;
+	display: block;
+}
+nav {
+	float: right;
+	padding: 20px;
+}
+#menu-icon {
+	display: hidden;
+	width: 40px;
+	height: 40px;
+	background: #4C8FEC url(../img/menu-icon.png) center;
+}
+ul {
+	list-style: nome;
+}
+li {
+	display: inline-block;
+	float: left;
+	padding: 10px;
+}
+
+/* O que podemos observar aqui seria a estilização da pagina do nosso projeto final com o css estamos organizando essa 
+pagina esta colocando cores deixando i site mais robusto e organizado, tratando como se fosse o celular iphone5 
+para abranger todas as telas criamos uma pasta e css e um arquivo este style.css e linkamos o index do html movemos 
+o todo navi que seria o manu descemos o slogan, colocamos uma cor no header definimos o tamanho e os paragrafos como 
+o slogan todos flutuando um a esquerda e outra a direita, tiramos o traço dos links e colocamos um efeito quando passamos o 
+mause, tranformaçao da logo em respansivel ela ira se adquar ao tamnha da sua tela, os dois potos seria para
+voltar o nivel para poder acessar a pasta desejada, a lista vai ficar sem estilo sem bolia sem quadrado, colocamos
+a lista uma na frente da outra. */

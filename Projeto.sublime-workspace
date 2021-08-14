@@ -1,0 +1,584 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"H",
+				"html"
+			],
+			[
+				"in",
+				"infinite"
+			],
+			[
+				"wor",
+				"word-wrap"
+			],
+			[
+				"ba",
+				"background-clip"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"al",
+				"alternate"
+			],
+			[
+				"anim",
+				"animation-direction"
+			],
+			[
+				"anima",
+				"animation-iteration-count"
+			],
+			[
+				"ani",
+				"animation-duration"
+			],
+			[
+				"bor",
+				"border-image"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"s",
+				"src"
+			],
+			[
+				"tro",
+				"transform"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"w",
+				"white"
+			],
+			[
+				"st",
+				"style"
+			],
+			[
+				"gre",
+				"green"
+			],
+			[
+				"si",
+				"silver"
+			],
+			[
+				"bo",
+				"button"
+			],
+			[
+				"dro",
+				"dropdown-content"
+			],
+			[
+				"colo",
+				"color"
+			],
+			[
+				"wh",
+				"white"
+			],
+			[
+				"text",
+				"text-orientation"
+			],
+			[
+				"pag",
+				"padding"
+			],
+			[
+				"c",
+				"css"
+			],
+			[
+				"fi",
+				"filter"
+			],
+			[
+				"to",
+				"tooltiptext"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"ma",
+				"max-divice-"
+			],
+			[
+				"min",
+				"min-device-width"
+			],
+			[
+				"mi",
+				"media"
+			],
+			[
+				"bl",
+				"blue"
+			],
+			[
+				"re",
+				"red"
+			],
+			[
+				"m",
+				"media"
+			],
+			[
+				"li",
+				"lightgreen"
+			],
+			[
+				"t",
+				"table"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"sty",
+				"style"
+			],
+			[
+				"th",
+				"thead"
+			],
+			[
+				"top",
+				"top"
+			],
+			[
+				"gr",
+				"gray"
+			],
+			[
+				"ped",
+				"padding-left"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"co",
+				"counter-reset"
+			],
+			[
+				"lo",
+				"lower-latin"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"wo",
+				"word-spacing"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"ht",
+				"thead"
+			],
+			[
+				"me",
+				"mensagem"
+			],
+			[
+				"fo",
+				"for"
+			],
+			[
+				"l",
+				"label"
+			],
+			[
+				"conta",
+				"contato"
+			],
+			[
+				"ac",
+				"action"
+			],
+			[
+				"h",
+				"h2"
+			],
+			[
+				"se",
+				"seviços"
+			],
+			[
+				"di",
+				"div"
+			],
+			[
+				"ty",
+				"type"
+			],
+			[
+				"time",
+				"time1"
+			],
+			[
+				"B",
+				"br"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"for",
+				"form"
+			],
+			[
+				"i",
+				"id"
+			],
+			[
+				"esta",
+				"estacionamento"
+			],
+			[
+				"con",
+				"content\tAttr"
+			],
+			[
+				"ar",
+				"area\tTag"
+			],
+			[
+				"a",
+				"abbr\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"side ",
+				"View: Toggle Side Bar"
+			],
+			[
+				"install",
+				"Install Package Control"
+			],
+			[
+				"",
+				"HTML: Wrap Selection With Tag"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Breno/Documents/Css/aula 18.1.html",
+		"/C/Users/Breno/Documents/Css/aula 18.2.html",
+		"/C/Users/Breno/Documents/Css/aula 18.3.html",
+		"/C/Users/Breno/Documents/Css/aula 19.html",
+		"/C/Users/Breno/Documents/Css/aula 20.html",
+		"/C/Users/Breno/Documents/Css/aula 20.1.html",
+		"/C/Users/Breno/Documents/Css/aula 20.2.html",
+		"/C/Users/Breno/Documents/Css/aula 21.html",
+		"/C/Users/Breno/Documents/Css/aula 18.html",
+		"/C/Users/Breno/Documents/Css/aula 17.html",
+		"/C/Users/Breno/Documents/Css/aula 16.html",
+		"/C/Users/Breno/Documents/Css/aula 15.html",
+		"/C/Users/Breno/Documents/Css/14.2.html",
+		"/C/Users/Breno/Documents/Css/aula 14.html",
+		"/C/Users/Breno/Documents/Css/aula 13.html",
+		"/C/Users/Breno/Documents/Css/aula 12.html",
+		"/C/Users/Breno/Documents/Css/aula 11.1.html",
+		"/C/Users/Breno/Documents/Css/aula 11.html",
+		"/C/Users/Breno/Documents/Css/aula 10.html",
+		"/C/Users/Breno/Documents/Css/aula 9.html",
+		"/C/Users/Breno/Documents/Css/aula 8.html",
+		"/C/Users/Breno/Documents/Css/aula 7.html",
+		"/C/Users/Breno/Documents/Css/aula 6.html",
+		"/C/Users/Breno/Documents/Css/aula 5.html",
+		"/C/Users/Breno/Documents/Css/aula3.html",
+		"/C/Users/Breno/Documents/Css/aula2.html",
+		"/C/Users/Breno/Documents/Css/style.css",
+		"/C/Users/Breno/Documents/Css/aula2",
+		"/C/Users/Breno/Documents/Css/aula1.html",
+		"/C/Users/Breno/Documents/projeto final/contatos.html",
+		"/C/Users/Breno/Documents/projeto final/planos.html",
+		"/C/Users/Breno/Documents/projeto final/sobre.html",
+		"/C/Users/Breno/Documents/projeto final/servicos.html",
+		"/C/Users/Breno/Documents/projeto final/Index.html",
+		"/C/Users/Breno/Documents/site.html",
+		"/C/Users/Breno/Documents/aula/Formulario e metodos.html",
+		"/C/Users/Breno/Documents/Websocket.html",
+		"/C/Users/Breno/Documents/canva sgv.html",
+		"/C/Users/Breno/Documents/Storage.html",
+		"/C/Users/Breno/Documents/aula/teste.html",
+		"/C/Users/Breno/Documents/salvar.html",
+		"/C/Users/Breno/Downloads/teste2.0.html",
+		"/C/Users/Breno/Downloads/aulamaps.html",
+		"/C/Users/Breno/Documents/aula/teste2.html",
+		"/C/Users/Breno/Documents/tags.html",
+		"/C/Users/Breno/Documents/aula/Esatacionamento 24hr.html",
+		"/C/Users/Breno/Documents/detalls.html",
+		"/C/Users/Breno/Documents/form.html",
+		"/C/Users/Breno/Documents/aula/4.2.html",
+		"/C/Users/Breno/Documents/aula 3.html",
+		"/C/Users/Breno/Documents/aula 2.html",
+		"/C/Users/Breno/Documents/aula.html",
+		"/C/Users/Breno/Documents/teste.html",
+		"/C/Users/Breno/Documents/aula/aula5.html",
+		"/C/Users/Breno/Documents/aula4.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"<div class=\"img\">\n\t\t<a target=\"blank\" href=\"f.png\">\n\t\t<img src=\"f.png\" alt=\"do texto\" width=\"200\" height=\"150\">\n\t</a>\n\t<div class=\"desc\">Breno Felype </div>\n    </div>\n",
+			">"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Projeto.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 105.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
