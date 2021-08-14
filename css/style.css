@@ -51,3 +51,45 @@ o slogan todos flutuando um a esquerda e outra a direita, tiramos o traço dos l
 mause, tranformaçao da logo em respansivel ela ira se adquar ao tamnha da sua tela, os dois potos seria para
 voltar o nivel para poder acessar a pasta desejada, a lista vai ficar sem estilo sem bolia sem quadrado, colocamos
 a lista uma na frente da outra. */
+
+@media only screen and (max-width: 568px){
+
+		#menu-icon {
+			display: inline-block;
+		}
+
+		nav ul {
+			display: nome;
+			position: absolute;
+			right: 20px;
+			top: 60px;
+			padding: 20px;
+			background: #fff;
+			width: 15%;
+
+		}
+		nav li {
+			text-align: left;
+			width: 90%;
+			padding: 10px 0;
+			margin: 0;
+
+		}
+
+		nav:hover ul {
+			display: block;
+			overflow: hidden;
+		}
+
+		nav li a {
+			color: #3B8686;
+		}
+	}
+	/*Media query 
+
+quando o dispositivo passa a dimenção setada ele vai funcionar 
+estamos criando uma regras para quando ela for acionada 
+podemos conversar com os itens de lista estar dimensionando 
+na nav:hover ele vai estar abrindo quando passar o mause
+ e pode estar colocando outro no menu aparece e estaremos
+mudando a cor da sua paleta criamos uma regra pro iphone */
