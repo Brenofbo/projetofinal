@@ -93,3 +93,68 @@ podemos conversar com os itens de lista estar dimensionando
 na nav:hover ele vai estar abrindo quando passar o mause
  e pode estar colocando outro no menu aparece e estaremos
 mudando a cor da sua paleta criamos uma regra pro iphone */
+@media only screen and (min-width: 481px){
+	#menu-icon {
+
+	}
+
+	body {
+		width: 100%;
+		margin: 0 auto;
+	}
+
+	header {
+		height: 350px;
+	}
+
+	section {
+		height: 250px;
+		clear: both;
+	}
+
+	#prom2, #prom1  {
+		width: 48%;
+		float: left;
+		margin: 10px;
+	}
+
+	#gerais1, #gerais2, #gerais3 {
+		float: left;
+		width: 32%;
+		margin-left: 10px;
+	}
+
+	#gerais2 img {
+		margin-left: 23%;
+	}
+
+	#depo1, #depo2 {
+		box-shadow: 10px 10px 5px #888888;
+		border-radius: 5px;
+		width: 45%;
+		float: left;
+		margin: 0 0 15px 15px;
+
+	}
+
+	footer {
+		height: 200px;
+		clear: both;		
+	}
+
+
+	#slogan {
+		margin-right: 10px;
+		font-weight: bold;
+		letter-spacing: 7px;
+		float: left;
+
+	}
+
+	p {
+		color: white;
+		font-weight: bold;
+	}
+
+	
+}
