@@ -127,10 +127,10 @@ mudando a cor da sua paleta criamos uma regra pro iphone */
 
 	#gerais1, #gerais2, #gerais3 {
 		float: left;
-		width: 30%;
+		width: 32%;
 		margin-left: 10px;
 		border: 1px solid #1AA6B7;
-                height: 318px;
+                height: 320px;
 	}
 
 	#gerais2 img {
