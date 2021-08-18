@@ -95,6 +95,7 @@ na nav:hover ele vai estar abrindo quando passar o mause
 mudando a cor da sua paleta criamos uma regra pro iphone */
 @media only screen and (min-width: 481px){
 	#menu-icon {
+		display: hidden;
 
 	}
 
@@ -104,7 +105,7 @@ mudando a cor da sua paleta criamos uma regra pro iphone */
 	}
 
 	header {
-		height: 350px;
+		height: 200px;
 	}
 
 	section {
@@ -116,12 +117,15 @@ mudando a cor da sua paleta criamos uma regra pro iphone */
 		width: 48%;
 		float: left;
 		margin: 10px;
+		border: 1px solid #1AA6B7;
 	}
 
 	#gerais1, #gerais2, #gerais3 {
 		float: left;
 		width: 32%;
 		margin-left: 10px;
+		border: 1px solid #1AA6B7;
+                height: 320px;
 	}
 
 	#gerais2 img {
@@ -129,7 +133,7 @@ mudando a cor da sua paleta criamos uma regra pro iphone */
 	}
 
 	#depo1, #depo2 {
-		box-shadow: 10px 10px 5px #888888;
+		box-shadow: 5px 3px 3px #888888;
 		border-radius: 5px;
 		width: 45%;
 		float: left;
@@ -155,6 +159,11 @@ mudando a cor da sua paleta criamos uma regra pro iphone */
 		color: white;
 		font-weight: bold;
 	}
+}
 
-	
+@media only screen and (min-width: 960px){
+    body {
+
+        width: 960px;
+    }
 }
